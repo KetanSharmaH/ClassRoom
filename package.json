@@ -1,0 +1,11 @@
+{
+  "name": "classroom",
+  "version": "1.0.0",
+  "description": "Handling a school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ketan Sharma",
+  "license": "ISC"
+}
